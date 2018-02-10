@@ -1,0 +1,5 @@
+To run the app in iOS:
+react-native run-ios
+
+To run the app in Android:
+react-native run-android
