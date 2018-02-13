@@ -1,3 +1,5 @@
+This application is a React Native App. The code can be compiled into both iOS and Android apps.
+
 To run the app in iOS:
 react-native run-ios
 
